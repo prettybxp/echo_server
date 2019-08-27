@@ -17,11 +17,14 @@ It's just a demo show how to use boost asio.
 
 5、test the case without coroutine ，use default lamda callback
 
+6、show the basic asio method and structure in the demo ，ip::tcp::endpoint， ip::tcp::socket， async_accept， async_receive， async_send
+asio::buffer etc.
+
 
 
 # coroutines
 
-in this demo. I have change coroutines from stackless coroutine to stackfull coroutine.
+In this demo. I have changed coroutines from stackless coroutine to stackfull coroutine.
 
 use the feature of boost::spawn from boost
 
