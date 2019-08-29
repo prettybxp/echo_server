@@ -25,7 +25,7 @@ asio::buffer etc.
 # coroutines
 
 
-it use boost::spawn to create stackfull coroutines
+Use boost::spawn to create stackfull coroutines
 
 
 # Requirements
