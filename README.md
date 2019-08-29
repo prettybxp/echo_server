@@ -5,7 +5,7 @@ It's just a demo show how to use boost asio.
 
 
 
-# used awesome feature  from boost.asio or c++1x
+# used awesome feature  from boost.asio and c++1x
 
 1、use boost::spawn to create coroutines .
 
@@ -24,10 +24,8 @@ asio::buffer etc.
 
 # coroutines
 
-In this demo. I have changed coroutines from stackless coroutine to stackfull coroutine.
 
-use the feature of boost::spawn from boost
-
+it use boost::spawn to create stackfull coroutines
 
 
 # Requirements
